@@ -1,0 +1,58 @@
+
+{
+  "questions": [
+    {
+      "question": "Which animal is known as the King of the Jungle?",
+      "options": ["Tiger", "Lion", "Elephant", "Bear"],
+      "correct_answer": "Lion"
+    },
+    {
+      "question": "What is the capital city of Japan?",
+      "options": ["Beijing", "Kyoto", "Tokyo", "Osaka"],
+      "correct_answer": "Tokyo"
+    },
+    {
+      "question": "What’s the name of the longest river in the world?",
+      "options": ["Amazon", "Yangtze", "Nile", "Mississippi"],
+      "correct_answer": "Nile"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "correct_answer": "7"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+      "correct_answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which country is famous for the Eiffel Tower?",
+      "options": ["Italy", "Spain", "Germany", "France"],
+      "correct_answer": "France"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correct_answer": "Carbon Dioxide"
+    },
+    {
+      "question": "Which instrument has keys, pedals, and strings?",
+      "options": ["Guitar", "Violin", "Piano", "Flute"],
+      "correct_answer": "Piano"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Silver"],
+      "correct_answer": "Diamond"
+    },
+    {
+      "question": "What year did the Titanic sink?",
+      "options": ["1912", "1905", "1898", "1923"],
+      "correct_answer": "1912"
+    }
+  ]
+}
+
+
+
